@@ -1,5 +1,5 @@
 # 馬拉松運動博覽會參訪動線類別預測
-This is a machine learning task released on [AIdea][1].
+This is a machine learning classification task released on [AIdea][1].
 
 ## Dataset
 Dataset includes the following features:
