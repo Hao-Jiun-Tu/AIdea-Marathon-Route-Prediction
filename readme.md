@@ -1,5 +1,7 @@
 # 馬拉松運動博覽會參訪動線類別預測
 This is a machine learning classification task released on [AIdea][1].
+- Team Members: Jason Tu, Alex Lin, Shu-Lei Wu, Yu-Chen Luo
+- Data: 2022/05/16-2022/06/16
 
 ## Dataset
 Dataset includes the following features:
