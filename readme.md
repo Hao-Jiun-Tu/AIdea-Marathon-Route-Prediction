@@ -44,7 +44,7 @@ XGBoost is a conventional machine learning method. Model details are omitted her
     Run `xgboost.ipynb` directly.
 
 ## Ablation Study
-The following is the ablation study for the four differnt input features trained on XGBoost model. More details about the four features can be seen in `document/Team18_final_report.pdf`.
+The following is the ablation study for the four different input features trained on XGBoost model. More details about the four features can be seen in `document/Team18_final_report.pdf`.
 ![image](img_for_readme/Ablation_Study_for_Features.png)
 
 ## Result
